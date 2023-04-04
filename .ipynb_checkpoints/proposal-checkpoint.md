@@ -31,8 +31,10 @@ encountered a problem.
 
 - [x] I have installed the software
 - [x] I have run at least one example
-- [ ] I have run the test suite *still working on this*
-- [ ] The test suite passes *still working on this*
+- [x] I have run the test suite
+- [x] The test suite passes - some tests failed, but I'm pretty sure it's because I need to update my version of numpy. Most passed though.
+
+![](img/tests-results.png)
 
 ### Notes/concerns/risks
 
